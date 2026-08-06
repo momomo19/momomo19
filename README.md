@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Hi,%20I'm%20Miriam&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Hi,%20I'm%20Miriam&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5D8AA8"  />
 </div>
 
 ###
@@ -49,5 +49,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momomo19/momomo19/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/momomo19/momomo19/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
+
+###
 
 ###
