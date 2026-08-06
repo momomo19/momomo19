@@ -1,14 +1,14 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Hi,%20I'm%20Miriam&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5D8AA8" />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Hi,%20I'm%20Miriam&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=B68BB1"  />
 </div>
 
 ###
 
-<div align="center">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/miriam-ahmed-7704882a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:miriam.ahmed@student.guc.edu.eg" target="_blank">
+  <a href="miriam.ahmed@student.guc.edu.eg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/m7jf2?igsh=ZXA5NGV5Y3Q1YTF1&utm_source=qr" target="_blank">
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
@@ -40,25 +40,6 @@
 
 ###
 
-<p align="left">
-  <b>A 3rd Year Computer Science Engineering Student</b><br><br>
-  
-  <b>Interested In</b><br>
-  - Embedded Systems<br>
-  - Autonomous Systems<br>
-  - Cloud Computing<br>
-  - AI<br><br>
-  
-  <b>Currently Working On</b><br>
-  - Autonomous Delivery Robot<br>
-  - High-speed Electric Racing Car<br><br>
-  
-  <b>Tools</b><br>
-  - STM32CubeMX<br>
-  - Git<br>
-  - Arduino IDE<br>
-  - KiCad
-</p>
+<p data-importer="text" align="left">A 3rd Year Computer Science Engineering Student<br><br>Interested In<br>- Embedded Systems<br>- Autonomous Systems<br>- Cloud Computing<br>- AI<br><br>Currently Working On<br>- Autonomous Delivery Robot<br>- High-speed Electric Racing Car<br><br>Tools<br>- STM32CubeMX<br>- Git<br>- Arduino IDE<br>- KiCad</p>
 
-<img src="https://raw.githubusercontent.com/momomo19/momomo19/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble" alt="pacman contribution graph" />
 ###
