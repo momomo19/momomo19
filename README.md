@@ -40,6 +40,6 @@
 
 ###
 
-<p data-importer="text" align="left">A 3rd Year Computer Science Engineering Student<br><br>Interested In<br>- Embedded Systems<br>- Autonomous Systems<br>- Cloud Computing<br>- AI<br><br>Currently Working On<br>- Autonomous Delivery Robot<br>- High-speed Electric Racing Car<br><br>Tools<br>- STM32CubeMX<br>- Git<br>- Arduino IDE<br>- KiCad</p>
+<p data-importer="text" align="left">A 3rd Year Computer Science Engineering Student<br><br>Interested In<br>- Embedded Systems<br>- Autonomous Systems<br>- Cloud Computing<br>- AI<br><br>Currently Working On<br>- Autonomous Delivery Robot<br>- Energy-efficient Electric Racing Car<br><br>Tools<br>- STM32CubeMX<br>- Git<br>- Arduino IDE<br>- KiCad</p>
 
 ###
